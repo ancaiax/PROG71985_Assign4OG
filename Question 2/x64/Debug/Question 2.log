@@ -1,0 +1,14 @@
+﻿  file.c
+  rooms.c
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\rooms.c(39,10): warning C4098: 'writeRooms': 'void' function returning a value
+  source.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(68,25): error C2065: 'rooms': undeclared identifier
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(68,20): warning C4047: 'function': 'ROOM *' differs in levels of indirection from 'int'
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(68,20): warning C4024: 'numOfEmptyRooms': different types for formal and actual parameter 1
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(72,24): error C2065: 'rooms': undeclared identifier
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(72,19): warning C4047: 'function': 'ROOM *' differs in levels of indirection from 'int'
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(72,19): warning C4024: 'listEmptyRooms': different types for formal and actual parameter 1
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(102,38): error C2065: 'rooms': undeclared identifier
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(102,33): warning C4047: 'function': 'ROOM *' differs in levels of indirection from 'int'
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4\Assignment 4\Question 2\source.c(102,33): warning C4024: 'bookRoomToGuest': different types for formal and actual parameter 1
